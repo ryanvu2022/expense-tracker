@@ -4,8 +4,6 @@ import ExpenseDate from './ExpenseDate';
 
 const ExpenseItem = ({ date, title, price }) => {
 
-  
-
   return (
     <Card className="expense-item">
       <ExpenseDate date={date}/>
@@ -13,7 +11,6 @@ const ExpenseItem = ({ date, title, price }) => {
         <h2>{title}</h2>
         <div className="expense-item__price">${price}</div>
       </div>
-      <button onClick={() => {}}>Change Title</button>
     </Card>
   )
 }
