@@ -6,8 +6,9 @@
   --darkblue-clr: #23424A;
   --verydarkblue-clr: #072A2D;
   --white-clr: #FFFFFF;
-  --purple-clr: #5A00d7;
-  --lightpurple-clr: #A791E8;
+  --orange-clr: #fd6726;
+  --lightorange-clr: #fada99;
+  --extremelightorange-clr: #fbf0d7;
 }
 
 * {
