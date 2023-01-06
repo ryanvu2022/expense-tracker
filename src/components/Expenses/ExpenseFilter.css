@@ -1,6 +1,10 @@
 .expenses-filter {
-   color: white;
-   padding: 0 1rem;
+   color: var(--verydarkblue-clr);
+   padding: 0 .25rem;
+}
+
+label {
+   font-size: 1.25rem;
 }
  
 .expenses-filter__control {

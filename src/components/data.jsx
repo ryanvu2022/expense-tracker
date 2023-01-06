@@ -3,7 +3,7 @@ const expenses = [
     id: '01',
     title: 'Heated Gloves',
     amount: 109.99,
-    date: new Date(2022, 10, 12),
+    date: new Date(2021, 10, 12),
   },
   { id: '02', 
     title: 'Heated Socks', 
@@ -17,9 +17,15 @@ const expenses = [
   },
   {
     id: '04',
-    title: 'Desk Lamp',
-    amount: 85.55,
+    title: 'Keyboard',
+    amount: 59.98,
     date: new Date(2023, 0, 2),
+  },
+  {
+    id: '05',
+    title: 'Monitor',
+    amount: 249.99,
+    date: new Date(2023, 0, 3),
   },
 ];
 
